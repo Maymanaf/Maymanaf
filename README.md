@@ -3,6 +3,7 @@ As a dedicated QA Engineer specializing in both manual and automation testing, I
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aymen-ben-nafaa/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/maymanaf9090)
 
 # 💻 Tech Stack:
 
@@ -66,6 +67,9 @@ As a dedicated QA Engineer specializing in both manual and automation testing, I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maymanaf&theme=nightowl&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maymanaf&theme=nightowl&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Maymanaf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=maymanaf&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=maymanaf&icon=0&color=6)](https://visitcount.itsvg.in)
 
