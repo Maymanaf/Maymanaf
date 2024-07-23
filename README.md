@@ -62,9 +62,9 @@ As a dedicated QA Engineer specializing in both manual and automation testing, I
 ![Sketch](https://img.shields.io/badge/sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maymanaf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Maymanaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maymanaf&theme=nightowl&hide_border=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maymanaf&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maymanaf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maymanaf&theme=nightowl&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maymanaf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
